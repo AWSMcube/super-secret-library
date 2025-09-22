@@ -1,7 +1,3 @@
-
-
-&nbsp;
-
 # Telegram clients
   ## Android:
 - [OctoGram](https://github.com/OctoGramApp/OctoGram)
